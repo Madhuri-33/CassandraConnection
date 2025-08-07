@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-28T10:29:31 IST" name="Suite" finished-at="2024-03-28T10:29:44 IST" duration-ms="13333">
+    <groups>
+    </groups>
+    <test started-at="2024-03-28T10:29:31 IST" name="Test" finished-at="2024-03-28T10:29:44 IST" duration-ms="13333">
+      <class name="com.qa.cql.test.CQLTest">
+        <test-method signature="init()[pri:0, instance:com.qa.cql.test.CQLTest@7fc229ab]" started-at="2024-03-28T10:29:31 IST" name="init" finished-at="2024-03-28T10:29:44 IST" duration-ms="13296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- com.qa.cql.test.CQLTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
